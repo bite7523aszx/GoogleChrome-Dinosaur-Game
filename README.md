@@ -4,4 +4,5 @@
 <li>參考資料<br>
 https://youtu.be/UdM9DEys-rI
 </li>
+  <li>EXE 資料夾</li>
 <ul>
